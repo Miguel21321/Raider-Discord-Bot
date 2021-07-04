@@ -5,6 +5,7 @@
 ////////////////////////////////////////////////////////
 
 
+// FOR REPL.IT USERS: require('http').createServer((req, res) => res.end(`¡El bot esta online!`)).listen(3000);
 const Aoijs = require("aoi.js") // Declaring package
 const config = require('./config.json'); // Declaring the config.json file
 const bot = new Aoijs.Bot({
