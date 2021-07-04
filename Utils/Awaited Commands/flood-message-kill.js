@@ -3,7 +3,7 @@ name: "flood-message-kill",
 type: "awaitedCommand",
 code: `
 @everyone FUCKED FUCKED FUCKED FUCKED FUCKED FUCKED FUCKED FUCKED FUCKED FUCKED FUCKED FUCKED FUCKED FUCKED FUCKED FUCKED FUCKED FUCKED FUCKED FUCKED FUCKED FUCKED 
-https://dl.phncdn.com/pics/gifs/030/539/721/30539721a.webm
+https://images2.imgbox.com/03/9a/nj8PuwKv_o.gif
 $suppressErrors
 ` 
 })
