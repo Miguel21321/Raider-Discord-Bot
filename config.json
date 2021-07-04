@@ -1,0 +1,4 @@
+{
+	"prefix": ".", // bot prefix
+	"token": "Ur bot token" // You can store ur bot token in a .env file
+}
