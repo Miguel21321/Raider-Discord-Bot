@@ -14,3 +14,6 @@
 ```npm i``` (This will install all required packages)
 4. Run the project with ```node .```
 5. Done! The bot is online.
+
+# Commands
+Working on it
