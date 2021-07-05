@@ -16,4 +16,13 @@
 5. Done! The bot is online.
 
 # Commands
-Working on it
+**(Note: If the bot does not ban, it does no deletes some channels/roles etc... it means that it does not have enough permissions for it)**
+- ```.kill-server``` Emmm yes, the server is dead. (Dangerous)
+- ```.add-channels (name)``` This will create 200 channels in the server with the name you indicate.
+- ```.ban-users``` This will ban all members of the server.
+- ```.del-channels``` This will delete all channels of the server.
+- ```.del-roles``` This will delete all roles of the server (Less to the roles superior to the bot if they have admin)
+- ```.dm-users (message)``` This will send a private message to all members of the server with the message you want.
+- ```.flood-message (message)``` This will spam the message you want to all the channels of the server.
+- ```.server-name (name)``` Change the name of the server you want.
+**More coming soon...**
