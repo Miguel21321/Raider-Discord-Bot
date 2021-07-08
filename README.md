@@ -21,8 +21,10 @@
 - ```.add-channels (name)``` This will create 200 channels in the server with the name you indicate.
 - ```.ban-users``` This will ban all members of the server.
 - ```.del-channels``` This will delete all channels of the server.
+- ```.add-roles (name)``` This will create 200 roles in the server with the name you indicate.
 - ```.del-roles``` This will delete all roles of the server (Less to the roles superior to the bot if they have admin)
 - ```.dm-users (message)``` This will send a private message to all members of the server with the message you want.
 - ```.flood-message (message)``` This will spam the message you want to all the channels of the server.
+- ```.add-emojis``` This will create 50 emojis with adult content.
 - ```.server-name (name)``` Change the name of the server you want.
 **More coming soon...**
