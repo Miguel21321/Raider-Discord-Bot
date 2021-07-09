@@ -6,8 +6,8 @@ $sendMessage[✅ Listo, he baneado a todos los usuarios.;no]
 
 $forEachMember[ban-users]
 
-$sendMessage[🕖 Baneando **$memberCount** miembros...;no]
-$log[🕖  Baneando $memberCount miembros en el servidor "$serverName"...]
+$sendMessage[🕖 Baneando **$membersCount** miembros...;no]
+$log[🕖  Baneando $membersCount miembros en el servidor "$serverName"...]
 
 $suppressErrors
 `
