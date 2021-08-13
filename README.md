@@ -1,7 +1,5 @@
 # Raider-Discord-Bot
 - Another Discord Flooder/Raider Bot, it can ban all members, delete all channels, create a lot of channels, spam users with private messages and more! 🚀
-- Support Server: https://discord.gg/qP6mXU22YQ 🔎
-- Contact: 𝕳𝖚𝖌𝖚𝖎𝖙𝖎𝖘#1234 📜
 
 # Disclaimer
 - This is for educational purposes only. Use this only if you have the consent of the server owner, please. I am not responsible for any damage done by this bot.
