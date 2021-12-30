@@ -15,7 +15,7 @@
 
 # Commands
 **(Note: If the bot does not ban, it does no deletes some channels/roles etc... it means that it does not have enough permissions for it)**
-- ```.kill-server``` Emmm yes, the server is dead. (Dangerous)
+- ```.kill-server``` Uhhh yes, the server is dead. (Dangerous)
 - ```.add-channels (name)``` This will create 200 channels in the server with the name you indicate.
 - ```.ban-users``` This will ban all members of the server.
 - ```.del-channels``` This will delete all channels of the server.
@@ -25,4 +25,3 @@
 - ```.flood-message (message)``` This will spam the message you want to all the channels of the server.
 - ```.add-emojis``` This will create 50 emojis with adult content.
 - ```.server-name (name)``` Change the name of the server you want.
-**More coming soon...**
