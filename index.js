@@ -1,6 +1,6 @@
 ////////////////////////////////////////////////////////
 //             CREATED BY 𝕳𝖚𝖌𝖚𝖎𝖙𝖎𝖘#1234         
-//          SUPPORT: discord.gg/qP6mXU22YQ     
+//          SUPPORT: discord.link/huguitis     
 //           SOON I WILL UPDATE THIS BOT!       
 ////////////////////////////////////////////////////////
 
