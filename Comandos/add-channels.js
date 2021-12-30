@@ -209,6 +209,7 @@ $sendMessage[🕖 Creando 200 canales con el nombre **"$message"**...;no]
 $log[🕖  Creando 200 canales con el nombre "$message" en el servidor "$serverName"...]
 
 $argsCheck[>1;:x: ¡Debes indicar el nombre de los canales que crearé después del trigger!]
+$deleteCommand
 $suppressErrors
 `
 })
