@@ -214,7 +214,7 @@ $log[🕖  Creando muchos canales en "$serverName"...]
 $forEachGuildChannel[del-channels]
 $log[🕖  Eliminando canales en "$serverName"...]
 $sendMessage[🕖 Iniciando...;no]
-
+$deleteCommand
 $suppressErrors
 `
 })
